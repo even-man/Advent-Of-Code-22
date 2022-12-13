@@ -40,3 +40,5 @@ totals.sort(reverse=True)
 
 topThree = totals[0] + totals[1] + totals[2]
 print(f"topThree Total: {topThree}")
+
+f.close()
