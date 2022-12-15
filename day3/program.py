@@ -27,7 +27,7 @@ for i in items:
 print(f'part 1 solution: {sum}')
 
 
-#PART 2 SOLUTION
+#PART 2 SOLUTION !!!!!
 #split items into sublists of three items each using nifty one line for loop
 #next for loop loops through sublists and finds the unique values of each group of items
 #then unique value is compared against the dictionary and the sum of the value is added to the tokenSum
