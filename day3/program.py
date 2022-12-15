@@ -42,4 +42,4 @@ print(f'part two solution, tokenSum: {tokenSum}')
 #items of interest used in this challenge:
 # python set()
 # one line for loop 
-#
+# this was pretty fun
