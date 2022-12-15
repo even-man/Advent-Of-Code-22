@@ -38,3 +38,8 @@ for item in splitItems:
     for i in uniqueVal:
         tokenSum += priorities[i]
 print(f'part two solution, tokenSum: {tokenSum}')
+
+#items of interest used in this challenge:
+# python set()
+# one line for loop 
+#
