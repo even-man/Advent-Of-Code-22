@@ -26,8 +26,6 @@ for i in assignments:
 
     aa, aaa = [int(r) for r in a.split("-")]
     bb, bbb = [int(r) for r in b.split("-")]
-    
-    print(a, b, aa, aaa, bb, bbb)
 
     if (aa <= bb and aaa >= bbb ) or (bb<=aa and bbb>=aaa):
         t+=1
